@@ -144,3 +144,4 @@ extern unsigned int defaultbg;
 extern const int boxdraw, boxdraw_bold, boxdraw_braille;
 extern float alpha;
 extern MouseKey mkeys[];
+extern int ximspot_update_interval;
